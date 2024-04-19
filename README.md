@@ -9,7 +9,6 @@ Install all the node Dependencies fy running the command:-
 npm install
 ```
 
-## Usage
 
 After installing all the dependencies. 
 
